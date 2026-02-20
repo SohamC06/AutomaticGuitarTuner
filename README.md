@@ -10,3 +10,6 @@ MG995 Servo Motor(360 degree continuous rotation)
 Buck converter
 Lithium ion batteries (3 X 3.7V)
 
+Circuit Diagram - images/Circuit Diagram.png
+Process Flowchart - images/Process Flowchart.png
+Prototype image - images/Prototype Image.png
