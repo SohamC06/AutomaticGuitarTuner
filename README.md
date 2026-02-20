@@ -1,10 +1,10 @@
 # AutomaticGuitarTuner
 An automatic guitar tuner that eliminates the need of human intervention to tune a guitar.It is designed to accurately detect the pitch of each string and guide the motor to rotate precisely.It was implemented using an ESP32 microcontroller, an INMP441 digital microphone and a MG995 Servo Motor
 
-##Demonstration video
+## Demonstration video
 Youtube Link for Demo video - https://youtu.be/gi7TasY6R2A
 
-##Components used 
+## Components used 
 ESP32 Microcontroller
 INMP441 Microphone
 MG995 Servo Motor(360 degree continuous rotation)
