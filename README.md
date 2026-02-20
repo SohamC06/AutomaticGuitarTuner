@@ -11,10 +11,10 @@ Buck converter
 Lithium ion batteries (3 X 3.7V)
 
 ## Circuit Diagram
-![Circuit Diagram](images/Circuit Diagram.png)
+![Circuit Diagram](images/Circuit%20Diagram.png)
 
 ## Process Flowchart
-![Process Flowchart](images/Process Flowchart.png)
+![Process Flowchart](images/Process%20Flowchart.png)
 
 ## Prototype Image
-![Prototype](images/Prototype Image.png)
+![Prototype](images/Prototype%20Image.png)
