@@ -5,11 +5,11 @@ An automatic guitar tuner that eliminates the need of human intervention to tune
 Youtube Link for Demo video - https://youtu.be/gi7TasY6R2A
 
 ## Components used 
-ESP32 Microcontroller
-INMP441 Microphone
-MG995 Servo Motor(360 degree continuous rotation)
-Buck converter
-Lithium ion batteries (3 X 3.7V)
+1. ESP32 Microcontroller
+2. INMP441 Microphone
+3. MG995 Servo Motor(360 degree continuous rotation)
+4. Buck converter
+5. Lithium ion batteries (3 X 3.7V)
 
 ## Circuit Diagram
 ![Circuit Diagram](images/Circuit%20Diagram.png)
